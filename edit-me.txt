@@ -1,2 +1,3 @@
 # Edit this file with your name and a short message.  
 # Example: "Hi, I'm Sophie. I love yogurt!"  
+Hi my name is Kirsten. I love blueberries. 
